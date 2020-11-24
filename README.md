@@ -1,4 +1,4 @@
-# quick-audio0.2
+# quick-audio0.3
 
 ## Extensão para acelerar áudios no Whatsapp Web.
 
