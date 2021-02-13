@@ -1,7 +1,11 @@
-# quick-audio0.3
+### Update to the extension to acelerate audios from WhatsApp.
 
-## Extensão para acelerar áudios no Whatsapp Web.
+- [x] Create a content.js file
+- [x] Create a style.css file
+- [x] Create a manisfest.json file
 
-### Melhorias na versão 0.1:
-* Adicionando ícone ao botão;
-* Acrescentando velocidades;
+### Improvements:
+
+- [x] Adding an icon to button.
+- [x] Adding more velocities.
+
